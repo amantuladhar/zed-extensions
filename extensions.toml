@@ -948,6 +948,10 @@ version = "0.0.2"
 submodule = "extensions/janet"
 version = "0.0.1"
 
+[jai]
+submodule = "extensions/jai"
+version = "0.0.1"
+
 [java]
 submodule = "extensions/java"
 version = "6.0.4"
